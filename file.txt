@@ -1,1 +1,3 @@
  Change for commit 1
+
+Change for commit 2
